@@ -1,0 +1,14 @@
+{
+  "name": "usage-meter",
+  "description": "The usage-meter mod for Claude Code.",
+  "owner": {
+    "name": "Daniel Oliveira"
+  },
+  "plugins": [
+    {
+      "name": "usage-meter",
+      "source": "./",
+      "description": "Band above the Claude Code prompt: plan usage bars with reset times, session tokens, estimated spend, and CPU/RAM/GPU/disk."
+    }
+  ]
+}

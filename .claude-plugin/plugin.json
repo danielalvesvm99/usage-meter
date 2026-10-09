@@ -1,0 +1,7 @@
+{
+  "name": "usage-meter",
+  "version": "0.2.1",
+  "author": { "name": "Daniel Oliveira" },
+  "description": "Band above the prompt: plan usage bars with reset times, session tokens, estimated spend, and CPU/RAM/disk.",
+  "types": "./types/index.d.ts"
+}
